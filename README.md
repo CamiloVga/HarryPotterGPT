@@ -27,6 +27,34 @@ The entire process - from raw text processing to deploying a user interface - is
 - **📝 Extensive Documentation**: Detailed comments and visualization of model architecture
 - **🛡️ Error Handling**: Robust recovery mechanisms for various failure scenarios
 
+## 🚀 Running the Script
+
+This repository includes a fully functional Python script (`HarryPotterGPT.ipynb`/`.py`) that implements the entire pipeline from data processing to model generation. The script is designed to be both educational and practical, with extensive comments explaining each step of the process.
+
+### How to Use the Script
+
+1. **Open in Google Colab or Jupyter**: The notebook format makes it easy to run each phase separately and observe the results.
+   ```
+   # If using Colab, you can open directly from GitHub
+   # File > Open notebook > GitHub > Paste repository URL
+   ```
+
+2. **Run All Phases**: Execute the entire pipeline from start to finish:
+   ```python
+   # Simply run all cells in order to:
+   # - Process your Harry Potter books
+   # - Train a custom tokenizer
+   # - Build and train a GPT model
+   # - Create an interactive text generation interface
+   ```
+
+3. **Learning Approach**: The script is designed for learning by doing:
+   - Each phase includes detailed explanations of what's happening
+   - Key components (attention mechanism, tokenization, etc.) are thoroughly documented
+   - Implementation details match the theoretical concepts outlined in this README
+
+The script serves as both a practical tool and a comprehensive tutorial, allowing you to understand what's happening at each step of building a language model from scratch.
+
 ## 🔍 Transformer Architecture Diagram
 
 ```
@@ -111,7 +139,7 @@ The entire process - from raw text processing to deploying a user interface - is
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/HarryPotterGPT.git
+git clone https://github.com/CamiloVga/HarryPotterGPT.git
 cd HarryPotterGPT
 
 # Install dependencies
