@@ -11,6 +11,11 @@ HarryPotterGPT is an educational implementation of a GPT-style language model bu
 
 The entire process - from raw text processing to deploying a user interface - is implemented step-by-step in a modular, well-documented codebase.
 
+## 👨‍💻 Author
+
+**Camilo Vega** - AI Consultant and Professor
+- [LinkedIn Profile](https://www.linkedin.com/in/camilo-vega-169084b1/)
+
 ## 📋 Features
 
 - **🔄 Complete ML Pipeline**: Full implementation from data processing to model serving
